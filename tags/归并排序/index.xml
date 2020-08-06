@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>归并排序 on BLOOOOOG</title>
+    <link>http://Rickenbacker620.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</link>
+    <description>Recent content in 归并排序 on BLOOOOOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>parasitifer@outlook.com (Coding Noob)</managingEditor>
+    <webMaster>parasitifer@outlook.com (Coding Noob)</webMaster>
+    <copyright>&amp;copy;{year}, Coding Noob All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 17:32:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://Rickenbacker620.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>归并排序</title>
+        <link>http://Rickenbacker620.github.io/posts/merge-sorting/</link>
+        <pubDate>Sat, 01 Aug 2020 17:32:41 +0000</pubDate>
+        <author>parasitifer@outlook.com (Coding Noob)</author>
+        <atom:modified>Sat, 01 Aug 2020 17:32:41 +0000</atom:modified>
+        <guid>http://Rickenbacker620.github.io/posts/merge-sorting/</guid>
+        <description>平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(nlog2n) O(nlog2n) O(n) 稳定 归并排序简介 归并排序把一组数据分为两段，将两段数据排序，再从两段中逐个选中最小的元</description>
+        
+        <dc:creator>Coding Noob</dc:creator>
+        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>归并排序</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>排序算法</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>队列</title>
+        <link>http://Rickenbacker620.github.io/posts/queue/</link>
+        <pubDate>Wed, 03 Jun 2020 17:32:41 +0000</pubDate>
+        <author>parasitifer@outlook.com (Coding Noob)</author>
+        <atom:modified>Wed, 03 Jun 2020 17:32:41 +0000</atom:modified>
+        <guid>http://Rickenbacker620.github.io/posts/queue/</guid>
+        <description></description>
+        
+        <dc:creator>Coding Noob</dc:creator>
+        <media:content url="http://Rickenbacker620.github.ioimages/coding/list.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>归并排序</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>排序算法</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

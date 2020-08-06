@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>选择排序 on BLOOOOOG</title>
+    <link>http://Rickenbacker620.github.io/tags/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/</link>
+    <description>Recent content in 选择排序 on BLOOOOOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>parasitifer@outlook.com (Coding Noob)</managingEditor>
+    <webMaster>parasitifer@outlook.com (Coding Noob)</webMaster>
+    <copyright>&amp;copy;{year}, Coding Noob All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 27 Jul 2020 17:32:41 +0000</lastBuildDate>
+    
+        <atom:link href="http://Rickenbacker620.github.io/tags/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>初级排序算法</title>
+        <link>http://Rickenbacker620.github.io/posts/basic-sorting/</link>
+        <pubDate>Mon, 27 Jul 2020 17:32:41 +0000</pubDate>
+        <author>parasitifer@outlook.com (Coding Noob)</author>
+        <atom:modified>Mon, 27 Jul 2020 17:32:41 +0000</atom:modified>
+        <guid>http://Rickenbacker620.github.io/posts/basic-sorting/</guid>
+        <description>冒泡排序 平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(n2) O(n2) O(1) 稳定 冒泡排序简介 冒牌排序易于理解，稳定，且冒泡排序还是一种就地排序。（即不需要</description>
+        
+        <dc:creator>Coding Noob</dc:creator>
+        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>冒泡排序</category>
+            
+          
+            
+              <category>选择排序</category>
+            
+          
+            
+              <category>插入排序</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>排序算法</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
