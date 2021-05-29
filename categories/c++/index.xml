@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>C&#43;&#43; on BLOOOOOG</title>
-    <link>http://Rickenbacker620.github.io/categories/c&#43;&#43;/</link>
+    <link>https://rickenbacker620.github.io/categories/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on BLOOOOOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, Coding Noob All Rights Reserved</copyright>
     <lastBuildDate>Sun, 26 Jul 2020 10:33:41 +0000</lastBuildDate>
     
-        <atom:link href="http://Rickenbacker620.github.io/categories/c++/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rickenbacker620.github.io/categories/c++/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>C&#43;&#43; Benchmark</title>
-        <link>http://Rickenbacker620.github.io/posts/cppbenchmark/</link>
+        <link>https://rickenbacker620.github.io/posts/cppbenchmark/</link>
         <pubDate>Sun, 26 Jul 2020 10:33:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Sun, 26 Jul 2020 10:33:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/cppbenchmark/</guid>
+        <guid>https://rickenbacker620.github.io/posts/cppbenchmark/</guid>
         <description>C++不像Java一样有非常好用的timer来进行测试，测试某些算法的性能非常不方便，所以需要自己写一个timer。 首先需要用到C++中的c</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/code.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/code.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

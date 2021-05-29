@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on BLOOOOOG</title>
-    <link>http://Rickenbacker620.github.io/series/</link>
+    <link>https://rickenbacker620.github.io/series/</link>
     <description>Recent content in Series on BLOOOOOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, Coding Noob All Rights Reserved</copyright>
     <lastBuildDate>Tue, 04 Aug 2020 14:32:41 +0000</lastBuildDate>
     
-        <atom:link href="http://Rickenbacker620.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rickenbacker620.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>排序算法</title>
-        <link>http://Rickenbacker620.github.io/series/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
+        <link>https://rickenbacker620.github.io/series/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
         <pubDate>Tue, 04 Aug 2020 14:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         
-        <guid>http://Rickenbacker620.github.io/series/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+        <guid>https://rickenbacker620.github.io/series/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
         <description></description>
         
         <dc:creator>Coding Noob</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>线性结构</title>
-        <link>http://Rickenbacker620.github.io/series/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</link>
+        <link>https://rickenbacker620.github.io/series/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</link>
         <pubDate>Mon, 01 Jun 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         
-        <guid>http://Rickenbacker620.github.io/series/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</guid>
+        <guid>https://rickenbacker620.github.io/series/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</guid>
         <description></description>
         
         <dc:creator>Coding Noob</dc:creator>

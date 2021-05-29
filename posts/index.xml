@@ -7,32 +7,50 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on BLOOOOOG</title>
-    <link>http://Rickenbacker620.github.io/posts/</link>
+    <link>https://rickenbacker620.github.io/posts/</link>
     <description>Recent content in Posts on BLOOOOOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>parasitifer@outlook.com (Coding Noob)</managingEditor>
     <webMaster>parasitifer@outlook.com (Coding Noob)</webMaster>
     <copyright>&amp;copy;{year}, Coding Noob All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 04 Aug 2020 14:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 17:32:41 +0000</lastBuildDate>
     
-        <atom:link href="http://Rickenbacker620.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rickenbacker620.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
+        <title>MLSA Application</title>
+        <link>https://rickenbacker620.github.io/posts/mlsa-application/</link>
+        <pubDate>Thu, 20 May 2021 17:32:41 +0000</pubDate>
+        <author>parasitifer@outlook.com (Coding Noob)</author>
+        <atom:modified>Thu, 20 May 2021 17:32:41 +0000</atom:modified>
+        <guid>https://rickenbacker620.github.io/posts/mlsa-application/</guid>
+        <description></description>
+        
+        <dc:creator>Coding Noob</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>桶排序</title>
-        <link>http://Rickenbacker620.github.io/posts/bucket-sorting/</link>
+        <link>https://rickenbacker620.github.io/posts/bucket-sorting/</link>
         <pubDate>Tue, 04 Aug 2020 14:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Tue, 04 Aug 2020 14:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/bucket-sorting/</guid>
+        <guid>https://rickenbacker620.github.io/posts/bucket-sorting/</guid>
         <description>桶排序 平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(n) O(n) O(m) 不稳定 桶排序简介 桶排序将数组分到有限数量的桶里，每个桶里再进行排序。由桶排序衍生</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -60,15 +78,15 @@
       
       <item>
         <title>快速排序</title>
-        <link>http://Rickenbacker620.github.io/posts/quick-sorting/</link>
+        <link>https://rickenbacker620.github.io/posts/quick-sorting/</link>
         <pubDate>Mon, 03 Aug 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Mon, 03 Aug 2020 17:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/quick-sorting/</guid>
+        <guid>https://rickenbacker620.github.io/posts/quick-sorting/</guid>
         <description>平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(nlogn) O(n2) O(logn) 不稳定 快速排序简介 快速排序又称分区交换排序，是一种非常常用的排序方法。通常情况下比其他</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,15 +114,15 @@
       
       <item>
         <title>归并排序</title>
-        <link>http://Rickenbacker620.github.io/posts/merge-sorting/</link>
+        <link>https://rickenbacker620.github.io/posts/merge-sorting/</link>
         <pubDate>Sat, 01 Aug 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Sat, 01 Aug 2020 17:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/merge-sorting/</guid>
+        <guid>https://rickenbacker620.github.io/posts/merge-sorting/</guid>
         <description>平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(nlog2n) O(nlog2n) O(n) 稳定 归并排序简介 归并排序把一组数据分为两段，将两段数据排序，再从两段中逐个选中最小的元</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -132,15 +150,15 @@
       
       <item>
         <title>初级排序算法</title>
-        <link>http://Rickenbacker620.github.io/posts/basic-sorting/</link>
+        <link>https://rickenbacker620.github.io/posts/basic-sorting/</link>
         <pubDate>Mon, 27 Jul 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Mon, 27 Jul 2020 17:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/basic-sorting/</guid>
+        <guid>https://rickenbacker620.github.io/posts/basic-sorting/</guid>
         <description>冒泡排序 平均时间复杂度 最坏时间复杂度 额外空间复杂度 稳定性 O(n2) O(n2) O(1) 稳定 冒泡排序简介 冒牌排序易于理解，稳定，且冒泡排序还是一种就地排序。（即不需要</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -176,15 +194,15 @@
       
       <item>
         <title>C&#43;&#43; Benchmark</title>
-        <link>http://Rickenbacker620.github.io/posts/cppbenchmark/</link>
+        <link>https://rickenbacker620.github.io/posts/cppbenchmark/</link>
         <pubDate>Sun, 26 Jul 2020 10:33:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Sun, 26 Jul 2020 10:33:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/cppbenchmark/</guid>
+        <guid>https://rickenbacker620.github.io/posts/cppbenchmark/</guid>
         <description>C++不像Java一样有非常好用的timer来进行测试，测试某些算法的性能非常不方便，所以需要自己写一个timer。 首先需要用到C++中的c</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/code.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/code.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -210,15 +228,15 @@
       
       <item>
         <title>排序算法概述</title>
-        <link>http://Rickenbacker620.github.io/posts/sortlead/</link>
+        <link>https://rickenbacker620.github.io/posts/sortlead/</link>
         <pubDate>Sun, 26 Jul 2020 10:33:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Sun, 26 Jul 2020 10:33:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/sortlead/</guid>
+        <guid>https://rickenbacker620.github.io/posts/sortlead/</guid>
         <description>排序算法 所有的排序算法中一般都包含几个固定的函数: 函数 功能 compare(less/more)函数(C++中使用重载运算符 &amp;lt;/&amp;gt; 实现) 比较数据大</description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/sort.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -246,15 +264,15 @@
       
       <item>
         <title>队列</title>
-        <link>http://Rickenbacker620.github.io/posts/queue/</link>
+        <link>https://rickenbacker620.github.io/posts/queue/</link>
         <pubDate>Wed, 03 Jun 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Wed, 03 Jun 2020 17:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/queue/</guid>
+        <guid>https://rickenbacker620.github.io/posts/queue/</guid>
         <description></description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/list.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/list.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -282,15 +300,15 @@
       
       <item>
         <title>线性表</title>
-        <link>http://Rickenbacker620.github.io/posts/list/</link>
+        <link>https://rickenbacker620.github.io/posts/list/</link>
         <pubDate>Mon, 01 Jun 2020 17:32:41 +0000</pubDate>
         <author>parasitifer@outlook.com (Coding Noob)</author>
         <atom:modified>Mon, 01 Jun 2020 17:32:41 +0000</atom:modified>
-        <guid>http://Rickenbacker620.github.io/posts/list/</guid>
+        <guid>https://rickenbacker620.github.io/posts/list/</guid>
         <description></description>
         
         <dc:creator>Coding Noob</dc:creator>
-        <media:content url="http://Rickenbacker620.github.ioimages/coding/list.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rickenbacker620.github.io/images/coding/list.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
